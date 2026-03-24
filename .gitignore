@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# VScode
+.vscode/
+
+# Arquivos python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
